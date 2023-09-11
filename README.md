@@ -28,7 +28,7 @@ En 2005-2006, Oliver Bimber étudie la projection sur des peintures et l'utilisa
 
 Une fois l'objet sur lequel sera projeté choisi ou créé, un logiciel est utilisé pour mapper les coins de la vidéo sur les surfaces. Il faut d’abord choisir les images ou la vidéo à projeter. Chaque vidéo est ensuite placée sur sa surface désignée. Alternativement, on peut cartographier la scène entière en 3D et tenter de projeter et de masquer l'image sur son cadre. L'étape suivante consiste à masquer, en utilisant des modèles d'opacité pour « masquer » réellement les formes et les positions exactes des différents éléments du bâtiment ou de l'espace de projection.
 
-La projection architecturale se divise en quatre grandes catégories 
+La projection architecturale se divise en quatre grandes catégories :
 - V'Jing (Performances visuelles en temps réel)
 - Théâtral
 - Statique/Interactif
