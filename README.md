@@ -24,3 +24,27 @@ En 2005-2006, Oliver Bimber étudie la projection sur des peintures et l'utilisa
 
 ## Comment faire pour créer une projection architecturale ?
 
+
+
+Une fois l'objet sur lequel sera projeté choisi ou créé, un logiciel est utilisé pour mapper les coins de la vidéo sur les surfaces. Il faut d’abord choisir les images ou la vidéo à projeter. Chaque vidéo est ensuite placée sur sa surface désignée. Alternativement, on peut cartographier la scène entière en 3D et tenter de projeter et de masquer l'image sur son cadre. L'étape suivante consiste à masquer, en utilisant des modèles d'opacité pour « masquer » réellement les formes et les positions exactes des différents éléments du bâtiment ou de l'espace de projection.
+
+La projection architecturale se divise en quatre grandes catégories 
+- V'Jing (Performances visuelles en temps réel)
+- Théâtral
+- Statique/Interactif
+- Vidéo
+
+## Quel logiciel on utilise ?
+MadMapper 
+
+
+## Exemples de projets utilisant la projection architecturale 
+
+### Sources 
+[Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
+[PMC](https://projection-mapping.org/the-history-of-projection-mapping/)
+[Wikipedia](https://en.wikipedia.org/wiki/Projection_mapping#See_also)
+[Moment Factory](https://momentfactory.com/work/all/all/soissons-en-lumieres)
+[Oasis Immersion](https://oasis.im/experience/)
+[MadMapper](https://madmapper.com/gallery/)
+
