@@ -10,4 +10,5 @@ En 1980, un dénommé Michael Naimark met au point une installation cinématogra
 
 En 1991, Disney réapparaît dans l'histoire de cette technologie comme le premier a posséder un brevet de cette dernière qui s'intitule *Appareil et procédé de projection sur un objet tridimensionnel*.
 
-En 1994, GE possède un premier brevet pour > système et une méthode permettant de superposer avec précision des images de modèles informatiques dans un espace tridimensionnel à un objet physique correspondant dans l'espace physique
+En 1994, GE possède un premier brevet pour 
+> système et une méthode permettant de superposer avec précision des images de modèles informatiques dans un espace tridimensionnel à un objet physique correspondant dans l'espace physique
