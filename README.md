@@ -13,3 +13,14 @@ En 1991, Disney réapparaît dans l'histoire de cette technologie comme le premi
 
 En 1994, GE possède un premier brevet pour un 
 > système et une méthode permettant de superposer avec précision des images de modèles informatiques dans un espace tridimensionnel à un objet physique correspondant dans l'espace physique
+
+En 1998, Ramesh Raskar, Greg Welch, Henry Fuchs et Deepak Bandyopadhyay et al. de l'UNC Chapel Hill qui ont émis l'idée d'un monde où toutes les surfaces pourraient faire profil de projections. Il était question de faire l'expérience de la réalité augmentée depuis notre bureau et de remplacer l'écran d'ordinateur décrit comme petit. C'est dans le domaine universitaire que la cartographie par projection a commencé à s'étendre. 
+
+En 1999, John Underkoffler explique le concept de l'*I/O Bulb*, soit un projecteur couplé à une caméra.
+
+En 2004, Raskar et al. étudie les projecteurs mobiles.
+
+En 2005-2006, Oliver Bimber étudie la projection sur des peintures et l'utilisation de rideaux comme écrans de projection.
+
+## Comment faire pour créer une projection architecturale ?
+
