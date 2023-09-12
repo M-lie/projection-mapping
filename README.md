@@ -3,6 +3,9 @@
 ## Qu'est-ce que c'est ?
 La projection architecturale est la projection de contenus vidéos sur diverses surfaces ou formes. Il est nécessaire d'aligner les images sans distortion si on veut éviter de dévaloriser les éléments qui y sont projetés et ce, dans l'objectif de donner cette impression au public que ce qu'il voit est réel et bien devant eux. La particularité de cette technologie est qu'elle peut être adaptée à n'importe quel environnement architectural en leur offrant à tous une seconde fonction, soit créer un monde illusoire. 
 
+![Image d'une projection architecturale](https://madmapper.com/gallery/TNL_Design_Illumination_3D_Video_Mapping_Hologramm_Projektion_Schloss_Arenfels_SchlossLeuchten_1440x860_01-(1)-webp-big.webp)
+> Source [MadMapper](https://madmapper.com/gallery/)
+
 ## D'où ça vient ?
 En 1969, Disneyland ouvre les portes du manège *Haunted Mansion* qui présente plusieurs projections, notamment la tête désincarnée de Madame Leota ainsi que cinq bustes chantants nommés les *Grim Grinning Ghosts*. La réalisation a été faite par l'enregistrement des portraits des chanteurs ensuite projeter sur le buste de leurs visages. 
 
