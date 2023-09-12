@@ -35,7 +35,12 @@ La projection architecturale se divise en quatre grandes catégories :
 ## Quel logiciel on utilise ?
 Le logiciel MadMapper est assurément l'un des meilleurs logiciels utiisés dans la projection mapping. Voici ses principales caractéristiques : 
 
-> - Lecteur vidéo ultra-rapide - Prise en charge de plusieurs projecteurs - Prise en charge de l'entrée audio - Masquage de Bézier et déformation du maillage - Scanner spatial et calibrage 3D - Compagnon matériel MiniMad pour le mappage vidéo ou l'exportation de mappage lumineux
+> - Lecteur vidéo ultra-rapide
+> - Prise en charge de plusieurs projecteurs
+> - Prise en charge de l'entrée audio 
+> - Masquage de Bézier et déformation du maillage
+> - Scanner spatial et calibrage 3D
+> - Compagnon matériel MiniMad pour le mappage vidéo ou l'exportation de mappage lumineux
 
 ## Exemples de projets utilisant la projection architecturale 
 
