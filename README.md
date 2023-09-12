@@ -69,7 +69,6 @@ Le logiciel MadMapper est assurément l'un des meilleurs logiciels utiisés dans
 
 [MadMapper](https://madmapper.com/gallery/)
 
-https://www.youtube.com/watch?v=uEYra_LMvxc
 
 [^1]: Citation tirée du site [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
 [^2]: Citation tirée du site [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
