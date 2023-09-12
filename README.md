@@ -24,9 +24,7 @@ En 2005-2006, Oliver Bimber étudie la projection sur des peintures et l'utilisa
 
 ## Comment faire pour créer une projection architecturale ?
 
-
-
-Une fois l'objet sur lequel sera projeté choisi ou créé, un logiciel est utilisé pour mapper les coins de la vidéo sur les surfaces. Il faut d’abord choisir les images ou la vidéo à projeter. Chaque vidéo est ensuite placée sur sa surface désignée. Alternativement, on peut cartographier la scène entière en 3D et tenter de projeter et de masquer l'image sur son cadre. L'étape suivante consiste à masquer, en utilisant des modèles d'opacité pour « masquer » réellement les formes et les positions exactes des différents éléments du bâtiment ou de l'espace de projection.
+D'abord, on utilise un logiciel spécialisé pour mapper les coins du contenu vidéo choisi ou créé sur les surfaces. Ensuite, on « masque » véritablement les formes ainsi que les positions exactes des divers attributs du bâtiment ou de l'espace de projection par le biais de modèles d'opacité. 
 
 La projection architecturale se divise en quatre grandes catégories :
 - V'Jing (Performances visuelles en temps réel)
@@ -35,8 +33,9 @@ La projection architecturale se divise en quatre grandes catégories :
 - Vidéo
 
 ## Quel logiciel on utilise ?
-MadMapper 
+Le logiciel MadMapper est assurément l'un des meilleurs logiciels utiisés dans la projection mapping. Voici ses principales caractéristiques : 
 
+> - Lecteur vidéo ultra-rapide - Prise en charge de plusieurs projecteurs - Prise en charge de l'entrée audio - Masquage de Bézier et déformation du maillage - Scanner spatial et calibrage 3D - Compagnon matériel MiniMad pour le mappage vidéo ou l'exportation de mappage lumineux
 
 ## Exemples de projets utilisant la projection architecturale 
 
