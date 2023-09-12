@@ -7,6 +7,7 @@ La projection architecturale est la projection de contenus vidéos sur diverses 
 En 1969, Disneyland ouvre les portes du manège *Haunted Mansion* qui présente plusieurs projections, notamment la tête désincarnée de Madame Leota ainsi que cinq bustes chantants nommés les *Grim Grinning Ghosts*. La réalisation a été faite par l'enregistrement des portraits des chanteurs ensuite projeter sur le buste de leurs visages. 
 
 ![image des *Grim Grinning Ghosts*](http://promapcentral.wpengine.com/wp-content/uploads/2012/12/tumblr_lts4torIKW1r337tvo1_500.jpg)
+> Source [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
 
 En 1980, un dénommé Michael Naimark met au point une installation cinématographique immersive appellée *Displacements*. La création de cette oeuvre commence avec l'enregistrement de deux artistes dans un salon au moyen d'une caméra rotative qui est substituée par le projecteur. Il s'agit d'un mappage de projection rotatif. 
 
@@ -14,7 +15,7 @@ En 1991, Disney réapparaît dans l'histoire de cette technologie comme le premi
 
 ![image des *Grim Grinning Ghosts*](http://promapcentral.wpengine.com/wp-content/uploads/2012/12/US5325473-1.png)
 
-> [^1] Source [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
+> [^1]: Source [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
 
 En 1994, GE possède un premier brevet pour un 
 > système et une méthode permettant de superposer avec précision des images de modèles informatiques dans un espace tridimensionnel à un objet physique correspondant dans l'espace physique
