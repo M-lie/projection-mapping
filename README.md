@@ -74,6 +74,7 @@ Le logiciel MadMapper est assurément l'un des meilleurs logiciels utiisés dans
 > Source [MadMapper](https://madmapper.com/gallery/)
 
 Lien vers le projet [Soissons en lumières de Moment Factory](https://momentfactory.com/work/all/all/soissons-en-lumieres)
+
 ![Image du projet Soissons en lumières](https://medias.momentfactory.com/2022/10/Moment-Soissons-AHD-TIFF-0036-WS.jpg)
 > Source [Moment Factory](https://momentfactory.com/work/all/all/soissons-en-lumieres)
 
@@ -83,9 +84,6 @@ Lien vers le projet [Soissons en lumières de Moment Factory](https://momentfact
 [PMC](https://projection-mapping.org/the-history-of-projection-mapping/)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Projection_mapping#See_also)
-
-[Oasis Immersion](https://oasis.im/experience/)
-
 
 [^1]: Citation tirée du site [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
 [^2]: Citation tirée du site [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
