@@ -13,14 +13,18 @@ En 1980, un dénommé Michael Naimark met au point une installation cinématogra
 
 En 1991, Disney réapparaît dans l'histoire de cette technologie comme le premier a posséder un brevet de cette dernière qui s'intitule *Appareil et procédé de projection sur un objet tridimensionnel*. Il évoque un *système permettant de peindre numériquement une image sur « un objet tridimensionnel profilé »* [^1].
 
-![image des *Grim Grinning Ghosts*](http://promapcentral.wpengine.com/wp-content/uploads/2012/12/US5325473-1.png)
+![image expliquant la théorie du brevet*](http://promapcentral.wpengine.com/wp-content/uploads/2012/12/US5325473-1.png)
+> Source [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
 
-> [^1]: Source [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
+En 1994, GE possède un premier brevet pour un *système et une méthode permettant de superposer avec précision des images de modèles informatiques dans un espace tridimensionnel à un objet physique correspondant dans l'espace physique* [^2]
 
-En 1994, GE possède un premier brevet pour un 
-> système et une méthode permettant de superposer avec précision des images de modèles informatiques dans un espace tridimensionnel à un objet physique correspondant dans l'espace physique
+![image expliquant la théorie du brevet*](http://promapcentral.wpengine.com/wp-content/uploads/2012/12/US5687305-11.png)
+> Source [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
 
 En 1998, Ramesh Raskar, Greg Welch, Henry Fuchs et Deepak Bandyopadhyay et al. de l'UNC Chapel Hill qui ont émis l'idée d'un monde où toutes les surfaces pourraient faire profil de projections. Il était question de faire l'expérience de la réalité augmentée depuis notre bureau et de remplacer l'écran d'ordinateur décrit comme petit. C'est dans le domaine universitaire que la cartographie par projection a commencé à s'étendre. 
+
+![image montrant l'idée*](http://promapcentral.wpengine.com/wp-content/uploads/2012/12/office.jpg)
+> Source [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
 
 En 1999, John Underkoffler explique le concept de l'*I/O Bulb*, soit un projecteur couplé à une caméra.
 
@@ -39,14 +43,14 @@ La projection architecturale se divise en quatre grandes catégories :
 - Vidéo
 
 ## Quel logiciel on utilise ?
-Le logiciel MadMapper est assurément l'un des meilleurs logiciels utiisés dans la projection mapping. Voici ses principales caractéristiques : 
+Le logiciel MadMapper est assurément l'un des meilleurs logiciels utiisés dans la projection mapping. Voici ses principales caractéristiques [^3] : 
 
-> - Lecteur vidéo ultra-rapide
-> - Prise en charge de plusieurs projecteurs
-> - Prise en charge de l'entrée audio 
-> - Masquage de Bézier et déformation du maillage
-> - Scanner spatial et calibrage 3D
-> - Compagnon matériel MiniMad pour le mappage vidéo ou l'exportation de mappage lumineux
+- Lecteur vidéo ultra-rapide
+- Prise en charge de plusieurs projecteurs
+- Prise en charge de l'entrée audio 
+- Masquage de Bézier et déformation du maillage
+- Scanner spatial et calibrage 3D
+- Compagnon matériel MiniMad pour le mappage vidéo ou l'exportation de mappage lumineux
 
 ## Exemples de projets utilisant la projection architecturale 
 
@@ -63,6 +67,8 @@ Le logiciel MadMapper est assurément l'un des meilleurs logiciels utiisés dans
 
 [MadMapper](https://madmapper.com/gallery/)
 
-
-
 https://www.youtube.com/watch?v=uEYra_LMvxc
+
+[^1]: Citation tirée du site [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
+[^2]: Citation tirée du site [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
+[^3]: Informations copiées du site [Showtech](https://www.showtechproductions.com/best-video-mapping-software-programs/)
