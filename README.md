@@ -55,7 +55,19 @@ Le logiciel MadMapper est assurément l'un des meilleurs logiciels utiisés dans
 ![Image du logiciel](https://madmapper.com/images/designedForArtist.jpg)
 
 ## Exemples de projets utilisant la projection architecturale 
-Lien vers des [exemples de pojection architecturale](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
+![Image d'un exemple de projection architecturale](https://madmapper.com/gallery/277367082_506863977670460_292377537516007516_n-big.jpg)
+
+![Image d'un exemple de projection architecturale](https://madmapper.com/gallery/bellot_1-big.jpg)
+
+![Image d'un exemple de projection architecturale](https://madmapper.com/gallery/Alex_Augier_1-big.jpg)
+
+![Image d'un exemple de projection architecturale](https://madmapper.com/gallery/Double_Take_Projections_1-big.jpg)
+
+![Image d'un exemple de projection architecturale](https://madmapper.com/gallery/Capture_d%E2%80%99e%CC%81cran_2023-01-09_a%CC%80_17.23.55-big.jpg)
+
+![Image d'un exemple de projection architecturale](https://madmapper.com/gallery/044531F1-C5FE-4218-88DB-7B4BFDCC2FD9-scaled-e1674072100361-1580x1051-big.jpeg)
+
+> Source [MadMapper](https://madmapper.com/gallery/) 
 
 ### Sources 
 [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
@@ -67,8 +79,6 @@ Lien vers des [exemples de pojection architecturale](https://lumenandforge.com/s
 [Moment Factory](https://momentfactory.com/work/all/all/soissons-en-lumieres)
 
 [Oasis Immersion](https://oasis.im/experience/)
-
-[MadMapper](https://madmapper.com/gallery/)
 
 
 [^1]: Citation tirée du site [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
