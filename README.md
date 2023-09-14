@@ -87,6 +87,9 @@ Lien vers le projet [Infinity Room de Refik Anadol](https://refikanadol.com/work
 ![Gif du projet Infinity Room](https://res.cloudinary.com/offstream/image/upload/v1555531114/lxswkov5m26yckfmgq9z.gif)
 > Source [Maff](https://www.maff.tv/watch/infinity-room)
 
+## Quels seront les défis ?
+Le plus grand défi sera probablement de bien mapper les coins de la surface pour qu'il n'y est aucune distorsion dans la projection. 
+
 ### Sources 
 [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
 
