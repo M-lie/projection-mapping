@@ -81,11 +81,17 @@ Lien vers le projet [Soissons en lumières de Moment Factory](https://momentfact
 ![Image du projet Soissons en lumières](https://medias.momentfactory.com/2022/10/Moment-Soissons-AHD-TIFF-0036-WS.jpg)
 > Source [Moment Factory](https://momentfactory.com/work/all/all/soissons-en-lumieres)
 
+## Quel est le concept ?
+Le projet consiste a amener le public à se lâcher prise en faisant leur propre composition sur un module produisant de la musique dans laquelle celle-ci se transforme en une composition audiovisuelle créée par des lasers et de la projection mapping. 
+
 ## Inspirations 
 Lien vers le projet [Infinity Room de Refik Anadol](https://refikanadol.com/works/infinity-room/)
 
 ![Gif du projet Infinity Room](https://res.cloudinary.com/offstream/image/upload/v1555531114/lxswkov5m26yckfmgq9z.gif)
 > Source [Maff](https://www.maff.tv/watch/infinity-room)
+
+## Comment va-t-on incorporer cette technologie dans le projet ?
+
 
 ## Quels seront les défis ?
 Le plus grand défi sera probablement de bien mapper les coins de la surface pour qu'il n'y est aucune distorsion dans la projection. 
@@ -100,5 +106,7 @@ Le plus grand défi sera probablement de bien mapper les coins de la surface pou
 [Showtech](https://www.showtechproductions.com/best-video-mapping-software-programs/)
 
 [^1]: Citation tirée du site [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
+
 [^2]: Citation tirée du site [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
+
 [^3]: Informations copiées du site [Showtech](https://www.showtechproductions.com/best-video-mapping-software-programs/)
