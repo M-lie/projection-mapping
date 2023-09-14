@@ -82,7 +82,7 @@ Lien vers le projet [Soissons en lumières de Moment Factory](https://momentfact
 > Source [Moment Factory](https://momentfactory.com/work/all/all/soissons-en-lumieres)
 
 ## Inspirations 
-Lien vers le projet [Infinity Room de Refik Anadol](https://www.maff.tv/watch/infinity-room)
+Lien vers le projet [Infinity Room de Refik Anadol](https://refikanadol.com/works/infinity-room/)
 
 ![Gif du projet Infinity Room](https://res.cloudinary.com/offstream/image/upload/v1555531114/lxswkov5m26yckfmgq9z.gif)
 > Source [Maff](https://www.maff.tv/watch/infinity-room)
