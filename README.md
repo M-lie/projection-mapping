@@ -81,6 +81,12 @@ Lien vers le projet [Soissons en lumières de Moment Factory](https://momentfact
 ![Image du projet Soissons en lumières](https://medias.momentfactory.com/2022/10/Moment-Soissons-AHD-TIFF-0036-WS.jpg)
 > Source [Moment Factory](https://momentfactory.com/work/all/all/soissons-en-lumieres)
 
+## Inspirations 
+Lien vers le projet [Infinity Room de Refik Anadol](https://www.maff.tv/watch/infinity-room)
+
+![Gif du projet Infinity Room](https://res.cloudinary.com/offstream/image/upload/v1555531114/lxswkov5m26yckfmgq9z.gif)
+> Source [Maff](https://www.maff.tv/watch/infinity-room)
+
 ### Sources 
 [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
 
