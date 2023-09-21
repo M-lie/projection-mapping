@@ -91,7 +91,7 @@ Lien vers le projet [Infinity Room de Refik Anadol](https://refikanadol.com/work
 > Source [Maff](https://www.maff.tv/watch/infinity-room)
 
 ## Comment va-t-on incorporer cette technologie dans le projet ?
-
+La technologie sera directement interreliée au module mentionné précédemment. En effet, le son produit par les utilisateurs sera représenté visuellement dans une projection mapping, c'est-à-dire que la projection va se modifier à chaque son émis pour donner lieu à une composition audiovisuelle.  
 
 ## Quels seront les défis ?
 Le plus grand défi sera probablement de bien mapper les coins de la surface pour qu'il n'y est aucune distorsion dans la projection. 
