@@ -85,7 +85,7 @@ Lien vers le projet [Soissons en lumières de Moment Factory](https://momentfact
 Le projet consiste a amener le public à se lâcher prise en faisant leur propre composition sur un module produisant de la musique dans laquelle celle-ci se transforme en une composition audiovisuelle créée par des lasers et de la projection mapping. 
 
 ## Plan de l'espace
-![Image du plan]
+![Image du plan](medias/plan_projet.jpg)
 
 ## Inspiration
 Lien vers le projet [Infinity Room de Refik Anadol](https://refikanadol.com/works/infinity-room/)
