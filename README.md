@@ -103,6 +103,7 @@ La technologie sera directement interreliée au module mentionné précédemment
 
 ## Matériels requis
 - Logiciel MadMapper
+- Logiciel Max
 - Projecteur
 
 ## Quels seront les défis ?
