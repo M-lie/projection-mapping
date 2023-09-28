@@ -84,6 +84,9 @@ Lien vers le projet [Soissons en lumières de Moment Factory](https://momentfact
 ## Quel est le concept ?
 Le projet consiste a amener le public à se lâcher prise en faisant leur propre composition sur un module produisant de la musique dans laquelle celle-ci se transforme en une composition audiovisuelle créée par des lasers et de la projection mapping. 
 
+## Plan de l'espace
+![Image du plan]
+
 ## Inspiration
 Lien vers le projet [Infinity Room de Refik Anadol](https://refikanadol.com/works/infinity-room/)
 
@@ -93,8 +96,12 @@ Lien vers le projet [Infinity Room de Refik Anadol](https://refikanadol.com/work
 ## Comment va-t-on incorporer cette technologie dans le projet ?
 La technologie sera directement interreliée au module mentionné précédemment. En effet, le son produit par les utilisateurs sera représenté visuellement dans une projection mapping, c'est-à-dire que la projection va se modifier à chaque son émis pour donner lieu à une composition audiovisuelle.  
 
+## Matériels requis
+- Logiciel MadMapper
+- Projecteur
+
 ## Quels seront les défis ?
-Le plus grand défi sera probablement de bien mapper les coins de la surface pour qu'il n'y est aucune distorsion dans la projection. 
+Le plus grand défi sera probablement de s'adapter à l'environnement pour bien mapper la surface pour éviter toute distorsion dans la projection. Ainsi que d'utiliser MadMapper, un tout nouveau logiciel. 
 
 ### Sources 
 [Lumen & Forge](https://lumenandforge.com/services/3d-projection-mapping/?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYR8GIv4qehdlqRLMeg4t5RGDI6ikQURm4x1adZ4McbIdHs1FyRJNgAaAj7jEALw_wcB)
