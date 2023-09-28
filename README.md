@@ -93,6 +93,9 @@ Lien vers le projet [Infinity Room de Refik Anadol](https://refikanadol.com/work
 ![Gif du projet Infinity Room](https://res.cloudinary.com/offstream/image/upload/v1555531114/lxswkov5m26yckfmgq9z.gif)
 > Source [Maff](https://www.maff.tv/watch/infinity-room)
 
+Lien vers une autre inspiration présentant [*la forme du son*](https://www.youtube.com/watch?v=wvJAgrUBF4w) (0.45s)
+> Source [YouTube](https://www.youtube.com/watch?v=wvJAgrUBF4w)
+
 ## Comment va-t-on incorporer cette technologie dans le projet ?
 La technologie sera directement interreliée au module mentionné précédemment. En effet, le son produit par les utilisateurs sera représenté visuellement dans une projection mapping, c'est-à-dire que la projection va se modifier à chaque son émis pour donner lieu à une composition audiovisuelle.  
 
