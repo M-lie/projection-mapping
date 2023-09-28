@@ -94,6 +94,8 @@ Lien vers le projet [Infinity Room de Refik Anadol](https://refikanadol.com/work
 > Source [Maff](https://www.maff.tv/watch/infinity-room)
 
 Lien vers une autre inspiration présentant [*la forme du son*](https://www.youtube.com/watch?v=wvJAgrUBF4w) (0.45s)
+
+![Image de la vidéo](medias/figure_son.PNG)
 > Source [YouTube](https://www.youtube.com/watch?v=wvJAgrUBF4w)
 
 ## Comment va-t-on incorporer cette technologie dans le projet ?
